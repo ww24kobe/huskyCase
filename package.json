@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ./index.js",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "demo":"echo demo1111"
   },
   "keywords": [],
   "author": "",
