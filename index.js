@@ -5,3 +5,5 @@ if (title) {
     console.log(message)
 
 }
+let b = 200;
+console.log(b)
